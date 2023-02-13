@@ -1,18 +1,9 @@
-#imagen {
-    width: 200px; 
-    height: 200px;
-    border-radius: 50%;
-    border: 3px solid green
-}
-
-strong {
-    color: green;
-}
-
 .row {
-    padding: 10px;
-}
-
-#img {
+    padding: 0px;
+    margin: 0px;
     text-align: center;
+}
+div {
+    
+    background-color: #E7CFB7;
 }

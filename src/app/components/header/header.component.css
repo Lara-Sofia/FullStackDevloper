@@ -6,4 +6,6 @@ div {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #E7CFB7;
 }
+
